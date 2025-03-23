@@ -1,0 +1,6 @@
+board:
+  name: blackpill_f411ce_8mhz
+  full_name: Black Pill V3.1 (8MHz)
+  vendor: weact
+  socs:
+    - name: stm32f411xe
