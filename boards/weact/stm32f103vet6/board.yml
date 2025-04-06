@@ -1,0 +1,6 @@
+board:
+  name: stm32f103vet6
+  full_name: Weact STM32F103VET6
+  vendor: weact
+  socs:
+    - name: stm32f103xe
